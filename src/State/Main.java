@@ -7,5 +7,7 @@ public class Main {
         pedido.realizarPagamento();
         pedido.despacharPedido();
         pedido.cancelarPedido();
+
+        //Commitar
     }
 }
